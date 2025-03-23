@@ -1,4 +1,4 @@
 # Demo
 This is my first repository.
 <br>
-Author -- Abdul Manan (Mangrio)
+Author -- Abdul Manan (Computer Scientist).
